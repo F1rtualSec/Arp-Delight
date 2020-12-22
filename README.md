@@ -9,3 +9,5 @@ Kullanım(Usage):
                 
 Scriptin çalışması için Sisteminizde Python3 bulunması gereklidir.
 
+Dipnot!: tüm sorumluluk kullanıcıya aitdir.
+
