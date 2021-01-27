@@ -1,5 +1,5 @@
 # Arp-Delight
-Python ile yazılmış olan gelişmiş arp scripti.
+Python3 ile yazılmış olan Network Scanner yazılımı.
 
 Kullanım(Usage):
 1) chmod +x arp-delight.py
