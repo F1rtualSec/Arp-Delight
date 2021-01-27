@@ -30,7 +30,7 @@ banner = """
 
 print ("Author   : Firtual Official")
 print ("You Tube : https://www.youtube.com/channel/UCk1ju-yBOPWmBfzzRdPGnOw")
-print ("github   : https://github.com/FirtualOfficial")
+print ("github   : https://github.com/F1rtualSec")
 print ("Discord  : F1rtualSec#6787")
 time.sleep(3)
 
