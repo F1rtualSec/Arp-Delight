@@ -31,7 +31,7 @@ banner = """
 print ("Author   : Firtual Official")
 print ("You Tube : https://www.youtube.com/channel/UCk1ju-yBOPWmBfzzRdPGnOw")
 print ("github   : https://github.com/FirtualOfficial")
-print ("Discord  : FirtualOfficial#6787")
+print ("Discord  : F1rtualSec#6787")
 time.sleep(3)
 
 target_ip = "192.168.1.1/24"
